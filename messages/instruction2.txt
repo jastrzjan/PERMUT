@@ -1,0 +1,6 @@
+﻿Brawo ukończyłaś/eś trening.
+
+Pamiętaj, Twoim zadaniem jest odnaleźć taki ciąg figur, 
+w którym żadna z figur nie sąsiaduje z figurą, z którą sąsiaduje w ciągu wzorcowym powyżej.
+
+Naciśnij spację by rozpocząć zadanie.
